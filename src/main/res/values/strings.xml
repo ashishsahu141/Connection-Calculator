@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ashish</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="enter_first_name">enter first name</string>
+    <string name="enter_second_name">Enter_second_name</string>
+    <string name="your_patner">your patner</string>
+    <string name="have_a_healthy_relationship">have a healthy relationship</string>
+</resources>
